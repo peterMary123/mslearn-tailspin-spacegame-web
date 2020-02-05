@@ -2,9 +2,6 @@ trigger:
 - '*'
 
 --remove all
---AGAIN via interface bbbb cccc
-aaaaa and so forth
---add later
 
 
 pool:
