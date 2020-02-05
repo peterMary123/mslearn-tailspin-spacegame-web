@@ -1,6 +1,7 @@
 trigger:
 - '*'
 --AGAIN via interface bbbb cccc
+aaaaa
 pool:
   vmImage: 'ubuntu-16.04'
   demands:
