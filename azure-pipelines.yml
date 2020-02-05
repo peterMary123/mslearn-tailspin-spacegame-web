@@ -1,6 +1,6 @@
-trigger:asdfasdfxxxxxzzzzzzzzzzzz
+trigger:
 - '*'
-
+--Stop fucking arnd
 pool:
   vmImage: 'ubuntu-16.04'
   demands:
