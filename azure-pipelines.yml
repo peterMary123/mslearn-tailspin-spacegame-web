@@ -1,7 +1,12 @@
 trigger:
 - '*'
+
+--remove all
 --AGAIN via interface bbbb cccc
 aaaaa
+--add later
+
+
 pool:
   vmImage: 'ubuntu-16.04'
   demands:
