@@ -1,6 +1,6 @@
 trigger:
 - '*'
---Stop fucking arnd hehehehe
+--St
 pool:
   vmImage: 'ubuntu-16.04'
   demands:
